@@ -8,6 +8,8 @@
   </a>
 </p>
 
+## Projects
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
@@ -31,7 +33,9 @@
        <p>A game in development using Unity and C# that aims to bring together breathtaking underwater scenary through the eyes of a turtle and education about the ocean. Primarily focused on the ocean's ecosystem and ocean zones.</p>
     </td>
   </tr>
-  <tr>
+</table>
+<table>
+<tr>
   <td width="33%" valign="top">
       <h3>Bro's Apothecary</h3>
         <br />
