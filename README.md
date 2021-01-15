@@ -31,4 +31,16 @@
        <p>A game in development using Unity and C# that aims to bring together breathtaking underwater scenary through the eyes of a turtle and education about the ocean. Primarily focused on the ocean's ecosystem and ocean zones.</p>
     </td>
   </tr>
+  <tr>
+  <td width="33%" valign="top">
+      <h3>Bro's Apothecary</h3>
+        <br />
+        <p><a href="https://github.com/grace-shopper-team-c/grace-shopper">Repo</a> | <a href="https://bros-apothecary.herokuapp.com/">Site</a></p>
+        <br />
+          <a href="https://bros-apothecary.herokuapp.com/">
+            <img src="https://media.giphy.com/media/b0D9wt27VlddiZVVJ2/giphy.gif" width="100%"/>
+          </a>
+        <p>An e-commerce website that sells halloween costumes for dogs.</p>
+    </td>
+  </tr>
 </table>
