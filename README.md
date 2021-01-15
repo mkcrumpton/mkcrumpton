@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/mariecrumpton/">
     <img src="images/linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
+  <a href="https://mkcrumpton.github.io/Resume/">
+    <img src="images/resume.png" width="30px;" alt="Resume">
+  </a>
 </p>
 
 ## Projects
