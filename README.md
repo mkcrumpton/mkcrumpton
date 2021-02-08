@@ -33,7 +33,7 @@
         <a href="https://www.youtube.com/watch?v=dUDTRJXvqfY">
             <img src="https://media.giphy.com/media/eM4UUyYLeSBQItKLG3/giphy.gif" width="100%"/>
         </a>
-       <p>A game in development using Unity and C# that aims to bring together breathtaking underwater scenary through the eyes of a turtle and education about the ocean. Primarily focused on the ocean's ecosystem and ocean zones.</p>
+       <p>A game in development using Unity and C# that aims to bring together breathtaking underwater scenery through the eyes of a turtle and education about the ocean. Primarily focused on the ocean's ecosystem and ocean zones.</p>
     </td>
   </tr>
 </table>
