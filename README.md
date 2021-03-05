@@ -9,12 +9,27 @@
   <a href="https://mkcrumpton.github.io/Resume/">
     <img src="images/resume.png" width="35px;" alt="Resume">
   </a>
+  <a href='https://mariecrumpton.com/'>
+    <img src='images/link.png' width="35px" alt="Portfolio">
+  </a>
 </p>
+
+Check out [my website](https://mariecrumpton.com/)!
 
 ## Projects
 
 <table bordercolor="#66b2b2">
   <tr>
+  <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <br />
+        <p><a href="https://github.com/NovelCase/mcrumpton-portfolio">Repo</a> | <a href="https://mariecrumpton.com/">Site</a></p>
+        <br />
+          <a href="https://mariecrumpton.com/">
+            <img src="https://media.giphy.com/media/T1LueOmvKavoPTXTRJ/giphy.gif" width="100%" alt="go.bark"/>
+          </a>
+        <p>Built in React and PixiJS. Developed by Novel Case team.</p>
+    </td>
     <td width="33%" valign="top">
       <h3>go.bARk</h3>
         <br />
@@ -25,7 +40,11 @@
           </a>
         <p>An Augmented Reality mobile app that allows a user to play with a virtual dog, connect with friends, and earn points for taking care of their dog.</p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+<table>
+<tr>
+  <td width="33%" valign="top">
       <h3>SeeTurtle Exploration</h3>
         <br />
         <p><a href="https://github.com/mkcrumpton/SeeTurtleExploration">Repo</a> | <a href="https://www.youtube.com/watch?v=dUDTRJXvqfY">Video</a></p>
@@ -35,10 +54,6 @@
         </a>
        <p>A game in development using Unity and C# that aims to bring together breathtaking underwater scenery through the eyes of a turtle and education about the ocean. Primarily focused on the ocean's ecosystem and ocean zones.</p>
     </td>
-  </tr>
-</table>
-<table>
-<tr>
   <td width="33%" valign="top">
       <h3>Bro's Apothecary</h3>
         <br />
