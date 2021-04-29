@@ -62,7 +62,7 @@ Check out [my website](https://mariecrumpton.com/)!
           <a href="https://bros-apothecary.herokuapp.com/">
             <img src="https://media.giphy.com/media/b0D9wt27VlddiZVVJ2/giphy.gif" width="100%"/>
           </a>
-        <p>An e-commerce website that sells halloween costumes for dogs.</p>
+        <p>An e-commerce website focused on delivering products, such as facial cleansers and candles, to meet everyone's apothecary needs.</p>
     </td>
   </tr>
 </table>
