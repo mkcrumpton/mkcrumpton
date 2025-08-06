@@ -2,7 +2,7 @@
   <img src="images/header.png" width="100%">
 </a>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/mariecrumpton/">
     <img src="images/linkedin.png" width="35px;" alt="LinkedIn" />
   </a>
@@ -12,9 +12,9 @@
   <a href='https://mariecrumpton.com/'>
     <img src='images/link.png' width="35px" alt="Portfolio">
   </a>
-</p>
+</p> -->
 
-Check out [my website](https://mariecrumpton.com/)!
+<!-- Check out [my website](https://mariecrumpton.com/)! -->
 
 ## Projects
 
